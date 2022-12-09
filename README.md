@@ -19,6 +19,8 @@
 - コーヒー抽出方法をシェアするために
 
 ## 設計書
+- 実装機能リスト  
+　https://docs.google.com/spreadsheets/d/1Tm8jF7DM9QC34u3mEM7Ukb1e7mnJyE1aUN0ud0GB7cA/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
